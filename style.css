@@ -172,6 +172,9 @@ button{
 .icon-sm{
 	font-size:18px!important;
 }
+.icon-md{
+	font-size:30px!important;
+}
 .icon-lg{
 	font-size:60px!important;
 }
@@ -432,6 +435,10 @@ h2{
 }
 .link-menu{
 	text-align:center;
+}
+.follow-icons{
+	margin-left:10px;
+	margin-right:10px;
 }
 
 /* = Colour
